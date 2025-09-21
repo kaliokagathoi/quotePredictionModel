@@ -1,0 +1,10 @@
+# VDE (PyCharm)
+.idea/*
+/.idea/*
+.idea
+.idea/
+
+# Virtual Environments
+.venv
+.venv/
+.venv/*
