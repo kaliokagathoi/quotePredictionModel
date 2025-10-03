@@ -1,10 +1,17 @@
-# VDE (PyCharm)
-.idea/*
-/.idea/*
-.idea
+# IDE
+.vscode/
 .idea/
 
-# Virtual Environments
-.venv
+# Virtual env
 .venv/
-.venv/*
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+Thumbs.db
