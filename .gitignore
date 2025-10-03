@@ -1,10 +1,12 @@
-# VDE (PyCharm)
-.idea/*
-/.idea/*
-.idea
+# PyCharm project files
 .idea/
 
-# Virtual Environments
-.venv
+# Local virtual environment
 .venv/
-.venv/*
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints (keep only if you actually use notebooks)
+.ipynb_checkpoints/
