@@ -1,12 +1,17 @@
-# PyCharm project files
+# IDE
+.vscode/
 .idea/
 
-# Local virtual environment
+# Virtual env
 .venv/
 
-# Python bytecode
+# Python
 __pycache__/
 *.py[cod]
 
-# Jupyter checkpoints (keep only if you actually use notebooks)
+# Jupyter
 .ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+Thumbs.db
